@@ -14,6 +14,7 @@ RO:BIT Humanoid Team - Computer Vision & Visual Localization
 🏆 - 2020 Robocup Korea Open 1st place 
 
 🏆 - 2020 International Robot Contest SRC/IRC 3th
+
 🏆 - 2020 International Robot Contest SRC/IRC(Online Competition) 1st place 
 
 

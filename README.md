@@ -2,7 +2,7 @@
 
 RO:BIT Humanoid Team 
 
-- Computer Vision & Visual Localization 
+- Computer Vision & Visual Localization & Embedded SW
 
 🏆 - 2024 MY(Multi-Y) Capstone 1st place
 

@@ -16,9 +16,17 @@ RO:BIT Humanoid Team
 
 🏆 - 2020 Robocup Korea Open 1st place 
 
-🏆 - 2020 International Robot Contest SRC/IRC 3th
+🏆 - 2020 International Robot Contest SRC/IRC 3th place
 
 🏆 - 2020 International Robot Contest SRC/IRC(Online Competition) 1st place 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=whoamiDH&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/whoamiDH"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 ![first-github-user's github stats](https://github-readme-stats.vercel.app/api?username=whoamiDH)

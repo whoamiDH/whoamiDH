@@ -29,4 +29,4 @@ RO:BIT Humanoid Team
 </a>
   
 
-![first-github-user's github stats](https://github-readme-stats.vercel.app/api?username=whoamiDH)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whoamiDH&show_icons=true&cache_seconds=86400)
